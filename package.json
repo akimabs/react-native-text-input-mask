@@ -1,12 +1,12 @@
 {
-  "name": "react-native-text-input-mask",
+  "name": "rn-text-input-mask",
   "version": "3.1.7",
   "description": "Text input mask for React Native.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akimabs/react-native-text-input-mask"
+    "url": "https://github.com/akimabs/rn-text-input-mask"
   },
   "keywords": [
     "react",
@@ -32,7 +32,7 @@
   },
   "author": "Akimabs",
   "bugs": {
-    "url": "https://github.com/akimabs/react-native-text-input-mask/issues"
+    "url": "https://github.com/akimabs/rn-text-input-mask/issues"
   },
-  "homepage": "https://github.com/akimabs/react-native-text-input-mask"
+  "homepage": "https://github.com/akimabs/rn-text-input-mask"
 }
