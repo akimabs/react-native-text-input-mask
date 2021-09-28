@@ -1,5 +1,5 @@
 {
-  "name": "react-native-text-input-mask",
+  "name": "@akimabs/react-native-text-input-mask",
   "version": "3.1.5",
   "description": "Text input mask for React Native.",
   "main": "dist/index.js",
@@ -30,7 +30,7 @@
   "peerDependencies": {
     "react-native": ">=0.62.2"
   },
-  "author": "Martin Treurnicht",
+  "author": "Akimabs",
   "bugs": {
     "url": "https://github.com/akimabs/react-native-text-input-mask/issues"
   },
